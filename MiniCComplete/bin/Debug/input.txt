@@ -1,0 +1,9 @@
+function add(a, b){
+	k = 0;
+	return a+b;
+}
+function sub(a, b){
+	return a-b;
+}
+add(2,3);
+sub(2,3);
