@@ -1,0 +1,38 @@
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\bin\Debug\MiniC.exe.config
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\bin\Debug\MiniC.exe
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\bin\Debug\MiniC.pdb
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniC.csproj.CoreCompileInputs.cache
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniC.exe
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniC.pdb
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\bin\Debug\Antlr4.Runtime.dll
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\bin\Debug\Antlr4.Runtime.xml
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniCLexer.cs
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniCParser.cs
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniCListener.cs
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniCBaseListener.cs
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniCVisitor.cs
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniCBaseVisitor.cs
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniC.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniC.csproj.CopyComplete
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\bin\Debug\System.ValueTuple.dll
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\bin\Debug\System.ValueTuple.xml
+D:\UOP\7th Semester\Compilers II\Laboratory\MiniC\obj\Debug\MiniC.csprojAssemblyReference.cache
+C:\Users\kosta\Desktop\MiniCComplete\bin\Debug\MiniC.exe.config
+C:\Users\kosta\Desktop\MiniCComplete\bin\Debug\MiniC.exe
+C:\Users\kosta\Desktop\MiniCComplete\bin\Debug\MiniC.pdb
+C:\Users\kosta\Desktop\MiniCComplete\bin\Debug\Antlr4.Runtime.dll
+C:\Users\kosta\Desktop\MiniCComplete\bin\Debug\System.ValueTuple.dll
+C:\Users\kosta\Desktop\MiniCComplete\bin\Debug\Antlr4.Runtime.xml
+C:\Users\kosta\Desktop\MiniCComplete\bin\Debug\System.ValueTuple.xml
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCLexer.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCParser.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCListener.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCBaseListener.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCVisitor.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCBaseVisitor.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniC.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniC.csproj.CoreCompileInputs.cache
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniC.csproj.CopyComplete
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniC.exe
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniC.pdb
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniC.csproj.AssemblyReference.cache

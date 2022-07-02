@@ -1,0 +1,6 @@
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCLexer.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCParser.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCListener.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCBaseListener.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCVisitor.cs
+C:\Users\kosta\Desktop\MiniCComplete\obj\Debug\MiniCBaseVisitor.cs
