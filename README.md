@@ -1,1 +1,1 @@
-# MiniC_Compiler (ANTLR)
+# MiniC Compiler (ANTLR)
